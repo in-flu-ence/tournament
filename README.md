@@ -35,7 +35,7 @@ Within the extracted folder, you will find the following files
 
 ## Bugs reporting
 
-Found a bug or a movie request? Please contact the Contributor.
+Found a bug? Please contact the Contributor.
 
 ## Contributor
 
